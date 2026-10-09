@@ -1,3 +1,10 @@
+---
+name: al-folio-v1-migration
+description: Use this skill when migrating an existing customized al-folio fork to v1.x, including starter/plugin ownership, local overrides, and upgrade audit workflow.
+metadata:
+  short-description: Migrate customized al-folio forks to v1
+---
+
 # al-folio v1 Migration
 
 Use this skill when a user asks an agent to migrate an existing customized al-folio fork to v1.x.
