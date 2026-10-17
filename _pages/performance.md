@@ -119,6 +119,14 @@ author_profile: true
       justify-content: flex-start;
       min-height: auto;
     }
+    .performance-content a {
+    color: inherit;           /* 继承原有文字颜色 */
+    text-decoration: none;    /* 去除下划线 */
+}
+
+.performance-content a:hover {
+    text-decoration: underline; /* 鼠标悬停显示下划线 */
+}
   }
 </style>
 
@@ -184,75 +192,93 @@ author_profile: true
     <div class="performance-timeline">
       <div class="performance-item">
         <div class="performance-date">2022.06</div>
-        <div class="performance-content">参与黑龙江省首届“田家炳”杯大学生美育成果展演</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/2P43g92RfnH6QJDVicn2_A" target="_blank" rel="noopener noreferrer">参与黑龙江省首届“田家炳”杯大学生美育成果展演</a></div>
       </div>
       <div class="performance-item">
         <div class="performance-date">2023.08</div>
-        <div class="performance-content">参与“七秩辉煌、国韵悠扬”哈尔滨工程大学建校70周年民族交响音乐会演出</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/GVUbr3Wd16UwkHwHSZkZ5w" target="_blank" rel="noopener noreferrer">参与“七秩辉煌、国韵悠扬”哈尔滨工程大学建校70周年民族交响音乐会演出</a></div>
       </div>
       <div class="performance-item">
         <div class="performance-date">2023.08</div>
-        <div class="performance-content">参与哈尔滨工程大学2023级本科生开学典礼暨军训动员大会演出</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/W8hIK33U3dq6eL_Fyokjsg" target="_blank" rel="noopener noreferrer">参与哈尔滨工程大学2023级本科生开学典礼暨军训动员大会演出</a></div>
       </div>
       <div class="performance-item">
         <div class="performance-date">2023.09</div>
-        <div class="performance-content">参与哈尔滨工程大学建校70周年创新发展大会演出</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/jgIZI3OqQnCWp1Jz7KL8DA" target="_blank" rel="noopener noreferrer">参与哈尔滨工程大学建校70周年创新发展大会演出</a></div>
       </div>
       <div class="performance-item">
         <div class="performance-date">2023.09</div>
-        <div class="performance-content">参与“七秩颂歌、逐光远航”哈尔滨工程大学建校70周年文艺晚会演出</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/cvqDIHxCgqkUkhak2duulg" target="_blank" rel="noopener noreferrer">参与“七秩颂歌、逐光远航”哈尔滨工程大学建校70周年文艺晚会演出</a></div>
       </div>
       <div class="performance-item">
         <div class="performance-date">2023.09</div>
-        <div class="performance-content">参与哈尔滨工程大学2023级本科生新生行军拉练演出</div>
+        <div class="performance-content">
+        <a href="https://weixin.qq.com/sph/AeQX1vE8sx" target="_blank" rel="noopener noreferrer">参与哈尔滨工程大学2023级本科生新生行军拉练演出</a></div>
       </div>
       <div class="performance-item">
         <div class="performance-date">2023.09</div>
-        <div class="performance-content">参与哈尔滨工程大学2023级本科生军训成果汇报大会演出</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/WOOIU1Y4vYnHb94AL5U4NA" target="_blank" rel="noopener noreferrer">参与哈尔滨工程大学2023级本科生军训成果汇报大会演出</a></div>
       </div>
       <div class="performance-item">
         <div class="performance-date">2023.09</div>
-        <div class="performance-content">参与哈尔滨工程大学“秋韵华章”庆中秋、迎国庆交响音乐会演出</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/TDSx1qGNuXU8k__GFljsxQ" target="_blank" rel="noopener noreferrer">参与哈尔滨工程大学“秋韵华章”庆中秋、迎国庆交响音乐会演出</a></div>
       </div>
       <div class="performance-item">
         <div class="performance-date">2023.11</div>
-        <div class="performance-content">参与哈尔滨工程大学“金晖行动”志愿活动演出</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/dG6ykwCxMRrM8c2z__I5kg" target="_blank" rel="noopener noreferrer">参与哈尔滨工程大学“金晖行动”志愿活动演出</a></div>
       </div>
       <div class="performance-item">
         <div class="performance-date">2023.12</div>
-        <div class="performance-content">参与哈尔滨工程大学新时代本科教育高质量创新发展大会演出</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/PxjAoIlW0bTwBFJVd5xftA" target="_blank" rel="noopener noreferrer">参与哈尔滨工程大学新时代本科教育高质量创新发展大会演出</a></div>
       </div>
       <div class="performance-item">
         <div class="performance-date">2024.05</div>
-        <div class="performance-content">参与哈尔滨工程大学“五季五节”活动——“臻美”艺术节演出</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/ATKFxkMJT-PBlizTVqkQ1w" target="_blank" rel="noopener noreferrer">参与哈尔滨工程大学“五季五节”活动——“臻美”艺术节演出</a></div>
       </div>
       <div class="performance-item">
         <div class="performance-date">2024.05</div>
-        <div class="performance-content">参与哈尔滨工程大学“唱响青春、挺膺担当”主题歌会演出（担任指挥）</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/6e8D04ff3BCa9j7UHBjvJw" target="_blank" rel="noopener noreferrer">参与哈尔滨工程大学“唱响青春、挺膺担当”主题歌会演出（担任指挥）</a></div>
       </div>
       <div class="performance-item">
         <div class="performance-date">2024.05</div>
-        <div class="performance-content">参与哈尔滨工程大学第四十七届田径运动会开幕式演出</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/b7x2HKdyigDiPZ94KL-12w" target="_blank" rel="noopener noreferrer">参与哈尔滨工程大学第四十七届田径运动会开幕式演出</a></div>
       </div>
       <div class="performance-item">
         <div class="performance-date">2024.06</div>
-        <div class="performance-content">参与哈尔滨工程大学2024届毕业晚会演出</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/jmN_fNOzxKFwFf-wDPvucw" target="_blank" rel="noopener noreferrer">参与哈尔滨工程大学2024届毕业晚会演出</a></div>
       </div>
       <div class="performance-item">
         <div class="performance-date">2024.08</div>
-        <div class="performance-content">参与哈尔滨工程大学2024级本科生新生行军拉练演出</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/MaBA-tN8qrnz6RgRFkJJvw" target="_blank" rel="noopener noreferrer">参与哈尔滨工程大学2024级本科生新生行军拉练演出</a></div>
       </div>
       <div class="performance-item">
         <div class="performance-date">2024.11</div>
-        <div class="performance-content">参与哈尔滨工程大学“金晖行动”志愿活动演出</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/4eXLByWjJIyBd1APbzDNuw" target="_blank" rel="noopener noreferrer">参与哈尔滨工程大学“金晖行动”志愿活动演出</a></div>
       </div>
       <div class="performance-item">
         <div class="performance-date">2025.06</div>
-        <div class="performance-content">参与哈尔滨工程大学“飞扬的旋律”西洋管弦乐合奏教学成果展示</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/1bISTyyPa2ySKpgrHYJ0-Q" target="_blank" rel="noopener noreferrer">参与哈尔滨工程大学“飞扬的旋律”西洋管弦乐合奏教学成果展示</a></div>
       </div>
       <div class="performance-item">
         <div class="performance-date">2025.11</div>
-        <div class="performance-content">参与国防科技大学“我们从阅兵场走来”高地号角军乐团专场音乐会演出</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/GSI86gZ60KAVKYJCQSvy-Q" target="_blank" rel="noopener noreferrer">参与国防科技大学“我们从阅兵场走来”高地号角军乐团专场音乐会演出</a></div>
       </div>
       <div class="performance-item">
         <div class="performance-date">2025.11</div>
@@ -260,35 +286,43 @@ author_profile: true
       </div>
       <div class="performance-item">
         <div class="performance-date">2026.01</div>
-        <div class="performance-content">参与国防科技大学“高地迎新春、号角启征程”高地号角军乐团环校演奏</div>
+        <div class="performance-content">
+        <a href="https://weixin.qq.com/sph/AfOazMzrEL" target="_blank" rel="noopener noreferrer">参与国防科技大学“高地迎新春、号角启征程”高地号角军乐团环校演奏</a></div>
       </div>
       <div class="performance-item">
         <div class="performance-date">2026.01</div>
-        <div class="performance-content">参与国防科技大学“高地荣光——致敬最美科大人”颁奖典礼演出</div>
+        <div class="performance-content">
+        <a href="https://weixin.qq.com/sph/AkfLpB0NUK" target="_blank" rel="noopener noreferrer">参与国防科技大学“高地荣光——致敬最美科大人”颁奖典礼演出</a></div>
       </div>
       <div class="performance-item">
         <div class="performance-date">2026.01</div>
-        <div class="performance-content">参与国防科技大学109爱乐乐团新年音乐会演出（担任指挥）</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/6cYe6uTshWP-PPC0B-7yxg" target="_blank" rel="noopener noreferrer">参与国防科技大学109爱乐乐团新年音乐会演出（担任指挥）</a></div>
       </div>
       <div class="performance-item">
         <div class="performance-date">2026.02</div>
-        <div class="performance-content">参与国防科技大学“高地号角”军乐团拜年视频录制</div>
+        <div class="performance-content">
+        <a href="https://weixin.qq.com/sph/AJEJsI5xIO" target="_blank" rel="noopener noreferrer">参与国防科技大学“高地号角”军乐团拜年视频录制</a></div>
       </div>
       <div class="performance-item">
         <div class="performance-date">2026.03</div>
-        <div class="performance-content">参与国防科技大学“高地加速度”春季环校马拉松开幕式演出</div>
+        <div class="performance-content">
+        <a href="https://weixin.qq.com/sph/AGbpEv2HPJ" target="_blank" rel="noopener noreferrer">参与国防科技大学“高地加速度”春季环校马拉松开幕式演出</a></div>
       </div>
       <div class="performance-item">
         <div class="performance-date">2026.05</div>
-        <div class="performance-content">参与中国军号、人民日报新媒体、湖南卫视 “热血青春 正步向前”首届迷彩音乐主题直播</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/kavbdY8L_QtBe8_d7-igdQ" target="_blank" rel="noopener noreferrer">参与中国军号、人民日报新媒体、湖南卫视 “热血青春 正步向前”首届迷彩音乐主题直播</a></div>
       </div>
       <div class="performance-item">
         <div class="performance-date">2026.05</div>
-        <div class="performance-content">参与国防科技大学“高地风华”校园路演（担任指挥）</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/iON4nNnCmPliTg0jftQBaA" target="_blank" rel="noopener noreferrer">参与国防科技大学“高地风华”校园路演（担任指挥）</a></div>
       </div>
       <div class="performance-item">
         <div class="performance-date">2026.05</div>
-        <div class="performance-content">参与国防科技大学“高地乐动”校园路演</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/EDZxBldJr2u6hxcu8Tqn8A" target="_blank" rel="noopener noreferrer">参与国防科技大学“高地乐动”校园路演</a></div>
       </div>
       <div class="performance-item">
         <div class="performance-date">2026.06</div>
@@ -296,7 +330,8 @@ author_profile: true
       </div>
       <div class="performance-item">
         <div class="performance-date">2026.06</div>
-        <div class="performance-content">参与国防科技大学献礼中国共产党成立105周年《红旗颂》视频录制</div>
+        <div class="performance-content">
+        <a href="https://weixin.qq.com/sph/AXPuVnExDw" target="_blank" rel="noopener noreferrer">参与国防科技大学献礼中国共产党成立105周年《红旗颂》视频录制</a></div>
       </div>
       <div class="performance-item">
         <div class="performance-date">2026.07</div>
@@ -304,7 +339,8 @@ author_profile: true
       </div>
       <div class="performance-item">
         <div class="performance-date">2026.07</div>
-        <div class="performance-content">参与国防科技大学高地启航“告别母校”专场音乐会演出</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/67jG4Gs_PabyMLO5iXYyiw" target="_blank" rel="noopener noreferrer">参与国防科技大学高地启航“告别母校”专场音乐会演出</a></div>
       </div>
     </div>
   </section>
