@@ -346,7 +346,7 @@ author_profile: true
   </section>
   <section class="performance-section">
     <h2>其他媒体推送</h2>
-    <p class="performance-note">出镜或撰文，截至2026.7（含）累计21次</p>
+    <p class="performance-note">出镜或撰文，截至2026.7（含）累计21条</p>
     <div class="performance-timeline">
       <div class="performance-item">
         <div class="performance-date">2021.11</div>
