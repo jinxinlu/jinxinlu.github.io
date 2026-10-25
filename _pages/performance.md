@@ -1,9 +1,9 @@
 ---
 layout: page
-title: performance
-title_en: "Performance"
-title_zh: "演奏经历"
-permalink: /performance/
+title: moments
+title_en: "Moments‌"
+title_zh: "朋友圈"
+permalink: /moments/
 nav: true
 nav_order: 6
 author_profile: true
@@ -341,6 +341,117 @@ author_profile: true
         <div class="performance-date">2026.07</div>
         <div class="performance-content">
         <a href="https://mp.weixin.qq.com/s/67jG4Gs_PabyMLO5iXYyiw" target="_blank" rel="noopener noreferrer">参与国防科技大学高地启航“告别母校”专场音乐会演出</a></div>
+      </div>
+    </div>
+  </section>
+  <section class="performance-section">
+    <h2>其他媒体推送</h2>
+    <p class="performance-note">出镜或撰文，截至2026.7（含）累计21次</p>
+    <div class="performance-timeline">
+      <div class="performance-item">
+        <div class="performance-date">2021.11</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/JSzaCaQdyCRIC2GUOzrOqQ" target="_blank" rel="noopener noreferrer">【哈尔滨工程大学】Hi，哈工程初雪！</a></div>
+      </div>
+      <div class="performance-item">
+        <div class="performance-date">2023.05</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/CRkQqEra-tv0oY7foq_6gA" target="_blank" rel="noopener noreferrer">【哈尔滨工程大学】今天，这些哈工程硬核青年获表彰！（参加全国五四红旗团支部表演）</a></div>
+      </div>
+      <div class="performance-item">
+        <div class="performance-date">2023.08</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/eo93E1SlE_4qJqqYKwTQwg" target="_blank" rel="noopener noreferrer">【HEU国家大学生文化素质教育基地】超燃!2023校庆晚会排练现场</a></div>
+      </div>
+      <div class="performance-item">
+        <div class="performance-date">2024.04</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/kQSunzXN0JfwuZBc4LU48A" target="_blank" rel="noopener noreferrer">【哈尔滨工程大学】“杏”会，一场倾“程”花海 ！</a></div>
+      </div>
+      <div class="performance-item">
+        <div class="performance-date">2024.06</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/ykKsoJWLcUKML9_UKj1NEA" target="_blank" rel="noopener noreferrer">【哈尔滨工程大学】牢记嘱托！3432名哈工程毕业生逐梦启程！</a></div>
+      </div>
+      <div class="performance-item">
+        <div class="performance-date">2024.06</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/_kW6RoXKf1JwgMjXtfoiKQ" target="_blank" rel="noopener noreferrer">【哈尔滨工程大学】哈工程毕业生最真情的告白，致你们！</a></div>
+      </div>
+      <div class="performance-item">
+        <div class="performance-date">2024.09</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/FR208B6v73fbOLatsgagOg" target="_blank" rel="noopener noreferrer">【哈尔滨工程大学】牢记殷切嘱托！矢志不渝沿着习近平总书记指引的方向前进！（参会）</a></div>
+      </div>
+      <div class="performance-item">
+        <div class="performance-date">2024.10</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/zB4LOI1bTMi2s9y-pFefbQ" target="_blank" rel="noopener noreferrer">【工学小程】倾囊相授！工学全媒体全体大会暨培训工作圆满结束！</a></div>
+      </div>
+      <div class="performance-item">
+        <div class="performance-date">2024.11</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/VtSrpc9vcihQJxY5fx84GQ" target="_blank" rel="noopener noreferrer">【哈尔滨工程大学】倒计时30天，哈工程见！</a></div>
+      </div>
+      <div class="performance-item">
+        <div class="performance-date">2024.11</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/bQhNXQZHZ9QEHKR7lBcqPw" target="_blank" rel="noopener noreferrer">【工学小程】管弦乐团“冬日交响”室内乐演出回顾（封面）</a></div>
+      </div>
+      <div class="performance-item">
+        <div class="performance-date">2025.03</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/mwwYwtVaA-_q49e6wTaf4w" target="_blank" rel="noopener noreferrer">【哈尔滨工程大学】从“大国重器”看中国智慧！“华龙一号”总师邢继哈工程开讲！</a></div>
+      </div>
+      <div class="performance-item">
+        <div class="performance-date">2025.04</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/PiPwrRyiaOvMYFwbIYa_Mw" target="_blank" rel="noopener noreferrer">【哈尔滨工程大学】全民国家安全教育走深走实十周年 | 忠诚捍卫 人人有责！（撰文）</a></div>
+      </div>
+      <div class="performance-item">
+        <div class="performance-date">2025.06</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/F-p-hNlIz0SqBMvMOYaYgw" target="_blank" rel="noopener noreferrer">【HEU石榴籽】从“籽籽相拥”到“花开遍地”：这些榜样让民族团结有了生动模样！</a></div>
+      </div>
+      <div class="performance-item">
+        <div class="performance-date">2025.06</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/wtegqzAQvNWFFE2EomScEw" target="_blank" rel="noopener noreferrer">【哈尔滨工程大学】石榴花开！这场文化盛宴爱住了！</a></div>
+      </div>
+      <div class="performance-item">
+        <div class="performance-date">2025.06</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/T_BjWmBo5RyuMt1-CPoUqA" target="_blank" rel="noopener noreferrer">【哈尔滨工程大学】Show Time！哈工程毕业季，等你的高光镜头！🤳</a></div>
+      </div>
+      <div class="performance-item">
+        <div class="performance-date">2025.06</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/PwehhTlaUE3vMc-olZMJfQ" target="_blank" rel="noopener noreferrer">【哈尔滨工程大学】强国强军 再立新功！2025届哈工程毕业生出发新征程！</a></div>
+      </div>
+      <div class="performance-item">
+        <div class="performance-date">2025.06</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/HPg5SUU3MgUpP-FTm2Zs8Q" target="_blank" rel="noopener noreferrer">【哈工程学工】星语寄心 榜样如炬 | 哈尔滨工程大学2025届“毕业星语”特辑（六）</a></div>
+      </div>
+      <div class="performance-item">
+        <div class="performance-date">2025.07</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/jKrCXDCGvCPMIwe-n3tEfA" target="_blank" rel="noopener noreferrer">【哈尔滨工程大学】跨越时空的入学通知书：强国强军的不变宣言！</a></div>
+      </div>
+      <div class="performance-item">
+        <div class="performance-date">2025.09</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/3EqHC3txbeB75FuX6p4JAQ" target="_blank" rel="noopener noreferrer">【军科研究生院】闪亮蜕变丨研究生入学军训剪影</a></div>
+      </div>
+      <div class="performance-item">
+        <div class="performance-date">2025.12</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/GZx6iP5Rzc_jm3QEH4jdmw" target="_blank" rel="noopener noreferrer">【哈尔滨工程大学】全省模范集体！哈工程+1！</a></div>
+      </div>
+      <div class="performance-item">
+        <div class="performance-date">2026.06</div>
+        <div class="performance-content">
+        <a href="https://mp.weixin.qq.com/s/NUOvCFH_Q-OvfOlxnJSFwQ" target="_blank" rel="noopener noreferrer">【哈工程学工】HEU隐藏任务 | 集齐十项小事，领取哈工程专属青春毕业证</a></div>
       </div>
     </div>
   </section>
