@@ -17,7 +17,7 @@ cv:
   address:
     street: No. 53 Fengtai East Street Courtyard
     city: Beijing
-    region: 
+    region:
     postalCode: 100071
     countryCode: CN
 
@@ -32,7 +32,7 @@ cv:
         #highlights:
         #  - Description 1.
         #  - Description 2.
-    
+
       - institution: Harbin Engineering University (HEU)
         location: Harbin, China
         url: https://www.hrbeu.edu.cn/
@@ -71,7 +71,6 @@ cv:
         location: Berlin, Germany
         start_date: 1917
         end_date: 1933
-
 
     Volunteer:
       - company: People's Climate March
@@ -153,13 +152,12 @@ cv:
         issuer: Ministry of Education
         icon: fa-solid fa-tag
 
-
     #Projects:
     #  - name: Quantum Computing
     #    summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-     #   highlights:
-     #     - Quantum Teleportation
-     #     - Quantum Cryptography
+    #   highlights:
+    #     - Quantum Teleportation
+    #     - Quantum Cryptography
     #    start_date: 2018-01-01
     #    end_date: 2018-01-01
 
@@ -167,5 +165,3 @@ cv:
       - name: Researcher Qiong Li
         icon: fa-solid fa-laptop
         reference: References available upon request.
-
-
